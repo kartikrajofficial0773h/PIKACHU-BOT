@@ -14,12 +14,12 @@ with TelegramClient(StringSession(), APP_ID, API_HASH) as hehe:
 	dcsession = hehe.session.save()
 	dcobra = hehe.send_message(
 	    "me",
-	    f"`{dcsession}`\n\n**Your DarkCobra String Session Here Sir😁😎😎\nClick on above Code to Copy it\n\nFor Support Join** @Dark_Cobra_Support_Group"
+	    f"`{dcsession}`\n\n**Your KINGBOT String Session Here Sir by @kartikrajofficial😁😎😎\nClick on above Code to Copy it\n\nFor Support Join** @King_bot_officialchat"
 	)
 
 print("\n\n############################\n")
 print(
-    "check your Telegram Saved Messages For Ur New String String Session 😂😂 or see below. ")
+    "check your Telegram Saved Messages For Ur New String String Session 😂😂 or see below DO NOT USE ANY OLD STRING IT WILL NOT WORK. ")
 
 print("\n############################\n")
 
